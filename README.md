@@ -1,2 +1,2 @@
-# Game-server-C-
+# Game-server C++
 Браузерная игра
