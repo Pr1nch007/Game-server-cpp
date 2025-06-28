@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\http_server.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\boost_json.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\json_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\request_handler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\json_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\json_logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\ticker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\db_handler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\tagged_uuid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\http_server.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\sdk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\json_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\request_handler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\json_utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\json_logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\application.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\ticker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\extra_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\serialization.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\serializing_listener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\db_connection_pool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\db_handler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\tagged_uuid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{17FD7BE5-CB6A-3CB2-959B-9B0A6895580D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BAF9FF69-05FC-3BF8-BA05-5C6E6D0BCA64}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

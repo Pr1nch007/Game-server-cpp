@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\loot_generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\collision_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\loot_generator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\tagged.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\collision_detector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\src\geom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{17FD7BE5-CB6A-3CB2-959B-9B0A6895580D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BAF9FF69-05FC-3BF8-BA05-5C6E6D0BCA64}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

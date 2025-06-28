@@ -1,0 +1,10 @@
+^C:\USERS\TRAFE_CCWWT\DEV\CPP-BACKEND\SPRINT4\PROBLEMS\LEAVE_GAME\SOLUTION\BUILD\CMAKEFILES\967E4781FAFF5B76939509F3AC5618B0\GENERATE.STAMP.RULE
+setlocal
+C:\CMake-3.21\bin\cmake.exe -SC:/Users/trafe_ccwwt/Dev/cpp-backend/sprint4/problems/leave_game/solution -BC:/Users/trafe_ccwwt/Dev/cpp-backend/sprint4/problems/leave_game/solution/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/trafe_ccwwt/Dev/cpp-backend/sprint4/problems/leave_game/solution/build/game_server.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

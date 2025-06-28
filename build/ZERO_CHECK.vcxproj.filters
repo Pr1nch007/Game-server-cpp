@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\trafe_ccwwt\Dev\cpp-backend\sprint4\problems\leave_game\solution\build\CMakeFiles\967e4781faff5b76939509f3ac5618b0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C7D7CC13-7222-333D-824B-B0714940215A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

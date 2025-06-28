@@ -1,0 +1,5 @@
+C:/Users/trafe_ccwwt/Dev/cpp-backend/sprint4/problems/leave_game/solution/build/CMakeFiles/ModelGame.dir
+C:/Users/trafe_ccwwt/Dev/cpp-backend/sprint4/problems/leave_game/solution/build/CMakeFiles/game_server.dir
+C:/Users/trafe_ccwwt/Dev/cpp-backend/sprint4/problems/leave_game/solution/build/CMakeFiles/game_server_tests.dir
+C:/Users/trafe_ccwwt/Dev/cpp-backend/sprint4/problems/leave_game/solution/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/trafe_ccwwt/Dev/cpp-backend/sprint4/problems/leave_game/solution/build/CMakeFiles/ZERO_CHECK.dir
